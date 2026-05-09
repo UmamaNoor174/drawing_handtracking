@@ -47,5 +47,3 @@ python drawing_handtracking.py
 
 **Developer**
 Umama Noor 
-Department of Information Technology 
-Specialization: Artificial Intelligence
