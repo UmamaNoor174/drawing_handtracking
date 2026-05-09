@@ -46,6 +46,6 @@ python drawing_handtracking.py
 3. Exit: Press 'q' on your keyboard to safely terminate the application.
 
 **Developer**
-Umama Noor /n
-Department of Information Technology /n
+Umama Noor 
+Department of Information Technology 
 Specialization: Artificial Intelligence
